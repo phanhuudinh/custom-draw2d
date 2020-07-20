@@ -77,6 +77,7 @@ require('./layout/locator/XYAbsPortLocator');
 require('./layout/locator/XYRelPortLocator');
 require('./layout/locator/InputPortLocator');
 require('./layout/locator/OutputPortLocator');
+require('./layout/locator/TopPortLocator');
 require('./layout/locator/ConnectionLocator');
 require('./layout/locator/ManhattanMidpointLocator');
 require('./layout/locator/PolylineMidpointLocator');
